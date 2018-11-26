@@ -1,4 +1,7 @@
-# Do We Need Teachers Anymore?
+---
+layout: post
+title: Do we need teachers anymore?
+---
 
 Recently I overheard a conversation about teachers referring pupils to Youtube for learning. The conclusion was that probably internet would replace teachers in the near future. This got me thinking.
 
