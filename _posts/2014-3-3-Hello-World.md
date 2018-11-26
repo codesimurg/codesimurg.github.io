@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do We Need Teachers Anymore?!
+title: Do We Need Teachers Anymore?
 ---
 
 
